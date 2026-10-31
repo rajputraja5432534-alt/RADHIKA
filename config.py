@@ -44,7 +44,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 # ======================================================
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/rockStar378/InflexMusic12")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/rajputraja5432534-alt/RADHIKA/blob/main/config.py")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
