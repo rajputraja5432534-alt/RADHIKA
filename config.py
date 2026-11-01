@@ -14,15 +14,15 @@ API_HASH = getenv("API_HASH", "916a9424dd1e58ab7955001ccc0172b3")
 BOT_TOKEN = getenv("BOT_TOKEN", None)
 
 # ======================================================
-OWNER_ID = int(getenv("OWNER_ID", 7980630836))
-OWNER_USERNAME = getenv("OWNER_USERNAME", "Vip_saiya_Ji")
-BOT_USERNAME = getenv("BOT_USERNAME", "shremusicbot ")
-BOT_NAME = getenv("BOT_NAME", "Sonali Music")
+OWNER_ID = int(getenv("OWNER_ID",8660475930))
+OWNER_USERNAME = getenv("OWNER_USERNAME", "OXYxGOD")
+BOT_USERNAME = getenv("BOT_USERNAME", "radbikha_musixbot ")
+BOT_NAME = getenv("BOT_NAME", "RADHIKA_MUSIC")
 ASSUSERNAME = getenv("ASSUSERNAME")
 
 # ======================================================
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
-LOGGER_ID = int(getenv("LOGGER_ID", -1002060224175))
+LOGGER_ID = int(getenv("LOGGER_ID", -1004318500033))
 
 YTPROXY_URL = getenv("YTPROXY_URL", 'https://tgapi.xbitcode.com')
 YT_API_KEY = getenv("YT_API_KEY" , 'xbit_kp3GFnAvdnFVDV3L6xACy-jbVBE5q5Cd')
@@ -49,8 +49,8 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # ======================================================
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/shree_update")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/zone_chatt")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/RADHIKHA_BOT_update")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/RADHIKA_GRUP")
 
 # ======================================================
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "1c21247d714244ddbb09925dac565aed")
